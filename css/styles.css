@@ -1,3 +1,30 @@
+/* Primary Hearder*/
+
+h1{
+	color: orange;
+	font-family: 'Pacifico', cursive;
+}
+
+/* Body text*/
+
+p{
+	font-family: font-family: 'Indie Flower', cursive;
+	line-height:,75em;	
+	color: purple;
+}
+
+
+a:link,
+a:visited{  
+	border-bottom: double black :2px;
+	padding: 1em;
+	text-transform: uppercase;
+}
+
+a:hover,
+a:hover{
+
+}
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
@@ -20,6 +47,24 @@ section {
 	height: 50px;
 	width: 50px;
 }
+
+/*color pallete*/
+.color-1{
+	background:  teal;
+}
+.color-2{
+	background: pink;
+}
+/* textures*/
+.pattern-1{
+	background: url("../img/swirl_pattern.png");
+}
+
+.pattern-2{
+	background-image: url(http://www.transparenttextures.com/patterns/diagmonds.png);}
+
+
+
 
 
 /* Show Grid */
