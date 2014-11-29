@@ -1,18 +1,32 @@
 /* Primary Hearder*/
-
-h1{
-	color: orange;
-	font-family: 'Pacifico', cursive;
+body{
+	
+	background-color: grey; }
+img{
+	border: 0;
+	overflow: hidden;
 }
 
+h1{
+	color: teal;
+	font-family: 'Miltonian' , cursive;
+}
+h2{
+	color: #cc6ec9;
+	font-family: 'Gravitas+One' , cursive;
+}
+
+h3{
+	color: #cc6ec9;
+	font-family: 'Gravitas+One' , cursive;
+}
 /* Body text*/
 
 p{
 	font-family: font-family: 'Indie Flower', cursive;
 	line-height:,75em;	
-	color: purple;
+	color: black;
 }
-
 
 a:link,
 a:visited{  
@@ -21,7 +35,7 @@ a:visited{
 	text-transform: uppercase;
 }
 
-a:hover,
+a:hover
 a:hover{
 
 }
@@ -53,7 +67,10 @@ section {
 	background:  teal;
 }
 .color-2{
-	background: pink;
+	background: #cc6ec9;
+}
+.color-3{
+	background: black;
 }
 /* textures*/
 .pattern-1{
@@ -63,7 +80,10 @@ section {
 .pattern-2{
 	background-image: url(http://www.transparenttextures.com/patterns/diagmonds.png);}
 
+.pattern-3{
+	background: url("../img/black-thread-light.png");
 
+}
 
 
 
