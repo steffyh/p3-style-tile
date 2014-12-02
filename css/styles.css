@@ -1,6 +1,6 @@
 /* Primary Hearder*/
 body{
-	
+	padding-left: 40px;
 	background-color: grey; }
 img{
 	border: 0;
@@ -23,7 +23,7 @@ h3{
 /* Body text*/
 
 p{
-	font-family: font-family: 'Indie Flower', cursive;
+	font-family: 'Rambla', sans-serif;
 	line-height:,75em;	
 	color: black;
 }
